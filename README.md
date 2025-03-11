@@ -53,8 +53,8 @@ def assassination_plan(target, random=1, time=0):
 
 我最喜欢的环境管理工具是conda
 
-<img src="D:\pycharm\PyCharm 2024.2.4\NLP\dev_skills\picture\conda.png" width="800" alt="截图一">
-<img src="D:\pycharm\PyCharm 2024.2.4\NLP\dev_skills\picture\IDE.png" width="800" alt="截图二">
+<img src="https://github.com/power-Gz/dev_skills/blob/master/picture/conda.png" width="800" alt="截图一——https://github.com/power-Gz/dev_skills/blob/master/picture/conda.png">
+<img src="https://github.com/power-Gz/dev_skills/blob/master/picture/IDE.png" width="800" alt="截图二——https://github.com/power-Gz/dev_skills/blob/master/picture/IDE.png">
 
 ---
 
