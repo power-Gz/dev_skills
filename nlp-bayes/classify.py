@@ -63,7 +63,7 @@ model.fit(X_train, y_train)
 # ========== 模型评估 ==========
 y_pred = model.predict(X_test)
 print("\n分类评估报告:")
-print(classification_report(y_test, y_pred))
+print(classification_report(y_test, y_pred,target_names=['普通邮件', '垃圾邮件']))
 
 
 # ========== 预测函数 ==========
