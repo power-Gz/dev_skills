@@ -1,2 +1,5 @@
-<img src="picture/11.png" width="800" alt="截图一" />
-<img src="picture/12.png" width="800" alt="截图二" />
+# BERT
+<img src="11.png" width="800" alt="截图1">
+
+# GPT
+<img src="12.png" width="800" alt="截图2">
